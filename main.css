@@ -59,6 +59,12 @@
   transition: 1s ease;
 }
 
+.img9 {
+  margin: 50px;
+  border-radius: 10px;
+  transition: 1s ease;
+}
+
 .img1:hover {
   transform: scale(1.2);
 }
@@ -88,6 +94,10 @@
 }
 
 .img8:hover {
+  transform: scale(1.2);
+}
+
+.img9:hover {
   transform: scale(1.2);
 }
 
