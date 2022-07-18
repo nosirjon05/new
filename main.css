@@ -10,13 +10,84 @@
   flex-wrap: wrap;
 }
 
-.img {
+.img1 {
   margin: 50px;
   border-radius: 10px;
   transition: 1s ease;
 }
 
-.img:hover {
+.img2 {
+  margin: 50px;
+  border-radius: 10px;
+  transition: 1s ease;
+}
+
+.img3 {
+  margin: 50px;
+  border-radius: 10px;
+  transition: 1s ease;
+}
+
+.img4 {
+  margin: 50px;
+  border-radius: 10px;
+  transition: 1s ease;
+}
+
+.img5 {
+  margin: 50px;
+  border-radius: 10px;
+  transition: 1s ease;
+}
+
+.img6 {
+  margin: 50px;
+  border-radius: 10px;
+  transition: 1s ease;
+}
+
+
+.img7 {
+  margin: 50px;
+  border-radius: 10px;
+  transition: 1s ease;
+}
+
+.img8 {
+  margin: 50px;
+  border-radius: 10px;
+  transition: 1s ease;
+}
+
+.img1:hover {
+  transform: scale(1.2);
+}
+
+.img2:hover {
+  transform: scale(1.2);
+}
+
+.img3:hover {
+  transform: scale(1.2);
+}
+
+.img4:hover {
+  transform: scale(1.2);
+}
+
+.img5:hover {
+  transform: scale(1.2);
+}
+
+.img6:hover {
+  transform: scale(1.2);
+}
+
+.img7:hover {
+  transform: scale(1.2);
+}
+
+.img8:hover {
   transform: scale(1.2);
 }
 
